@@ -1,5 +1,4 @@
 # cricketGame
-Certainly. Here's a **concise and professional** version of the `README.md` that gets straight to the point:
 
 ---
 
